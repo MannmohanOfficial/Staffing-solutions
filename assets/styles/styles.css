@@ -1,0 +1,180 @@
+@import url(https://fonts.googleapis.com/earlyaccess/opensanshebrew.css);
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+body {
+    overflow-x: hidden;
+}
+.nav-item {
+    .person {
+        display: flex;
+        width: 67px;
+        height: 67px;
+        margin-top: -23px;
+    }
+    .nav-link {
+        font-size: 24px;
+        margin-right: 58px;
+        font-weight: 500;
+        font-family: 'Open Sans Hebrew', serif;
+        
+    }
+}
+
+.showcase .container {
+    margin: 0;
+    padding: 0;
+
+    .left-section {
+        margin-left: 201px;
+        .hr-line {
+            margin-top: 173px;
+        }
+
+        .lead {
+            font-size: 45px;
+            font-weight: 700;
+            font-family: 'Open Sans Hebrew', serif;
+
+            /* p {
+                color: #434344;
+            }
+
+            .P1 {
+                color: #FFDC60;
+            } */
+        }
+
+        .sub-lead {
+            font-size: 20px;
+            font-family: 'Montserrat', sans-serif;
+        }
+    }
+
+    .right-section {
+        margin-left: 1212px;
+        margin-top: -650px;
+        z-index: -999;
+
+        .secAnim {
+            margin-top: -1086px;
+            margin-left: -97px;
+        }
+
+        .student {
+            margin-top : -722px;
+            margin-left: -327px
+        }
+    }
+}
+
+.who-we-are {
+    
+    .first_row {
+        font-size: 56px;
+        font-weight: 500;
+        
+        .who .are {
+            color: #000;
+        }
+        .we {
+            color: #12B4A3;
+            margin-left: 12px;
+            margin-right: 12px;
+        }
+    }
+
+    .second_row {
+        #wwa {
+            margin-left: 164px;
+            margin-top: 20px;
+            height: 585px;
+            width: 678px;
+        }
+
+        .desc {
+            font-size: 22px;
+            font-weight: 500;
+            line-height: 50px;
+            text-align: justify;
+            margin-top: 42px;
+            margin-right: 175px;
+            color: #3c11e3;
+            font-family: 'Montserrat', sans-serif;
+        }
+    }
+    
+}
+
+.how-we-work {
+    .r1 {
+        font-size: 56px;
+        font-weight: 500;
+    }
+
+    .how .are {
+        color: #000;
+    }
+    .we {
+        color: #12B4A3;
+        margin-left: 12px;
+        margin-right: 12px;
+    }
+
+    .funny_man {
+       .f_man {
+            width: 451px;
+            height: 274px;
+            margin-left: 1090pt;
+            margin-top: -98pt;
+       }
+    }
+
+    .w_row {
+        margin-left: 238px;
+    }
+
+    .exp_grl {
+        margin-top: -259px;
+        margin-left: 141px;
+    }
+}
+
+.clients-we-have {
+    .client-heading {
+        font-size: 56px;
+        font-weight: 500;
+    }
+    .cleints .have {
+        color: #000;
+    }
+    .we {
+        color: #12B4A3;
+        margin-left: 12px;
+        margin-right: 12px;
+    }
+
+    .client-count {
+        color: #12B4A3;
+
+        .rect {
+            width: 320px;
+            height: 114px;
+            border-radius: 10px;
+            background-color: green;
+            margin-right: 14px;
+        }
+
+        .grid-row {
+            height: 114px;
+        }
+        .mid {
+            margin-top: 14px;
+            margin-bottom: 14px;
+        }
+    }
+}
+
+.supercharge {
+    background-color: #026C63;
+    height: 756px;
+}
